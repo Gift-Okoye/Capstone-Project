@@ -154,6 +154,10 @@
 
 }
 
+.menu-group p{
+    color: white;
+}
+
 .link{
     display: flex;
     flex-direction: row;
@@ -190,7 +194,7 @@
     width: 2rem;
     height: 2rem;
     overflow: hidden;
-    border: solid;
+ 
     border-radius: 100rem;
 }
 
